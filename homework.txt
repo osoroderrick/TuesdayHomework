@@ -1,0 +1,30 @@
+#list
+$ ls
+Homework  homework.txt
+
+#pwd 
+$ pwd
+/c/Users/derri/TuesdayHomework
+
+#touch
+$ touch Homework
+
+#cat
+$ cat homework.txt
+
+#list
+$ ls
+Homework  homework.txt
+
+#pwd
+$ pwd
+/c/Users/derri/TuesdayHomework
+
+#touch
+$ touch Homework
+
+#mkdir
+$ mkdir TuesdayHomework
+
+#rm (Remove)
+$ rm file2
